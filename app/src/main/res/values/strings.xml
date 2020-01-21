@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Marvel Limited</string>
+    <string name="refresh">Refresh</string>
+    <string name="pull_to_refresh">Swipe down to get the latest Marvel Comics!</string>
+</resources>
